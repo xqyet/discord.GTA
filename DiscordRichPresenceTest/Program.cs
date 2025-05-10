@@ -9,7 +9,7 @@ namespace DiscordRichPresenceTest
         static void Main(string[] args)
         {
 
-            string clientId = "1367836806032265278";
+            string clientId = "";
 
             var client = new DiscordRpcClient(clientId);
 
